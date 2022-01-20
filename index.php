@@ -47,6 +47,9 @@
                         <li><a href="exercicio.php?dir=tipos&file=strings">Strings</a></li>
                     </ul>
                     <ul>
+                        <li><a href="exercicio.php?dir=tipos&file=bool">Boolean</a></li>
+                    </ul>
+                    <ul>
                         <li><a href="exercicio.php?dir=tipos&file=desafio_precedencia">Desafio Precedência</a></li>
                     </ul>
                     <ul>
