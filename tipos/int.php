@@ -1,4 +1,4 @@
-<div class="titulo">Tipo Inteiro</div>
+<div class="titulo">Tipo INTEIRO</div>
 
 <?php
 echo 11;
