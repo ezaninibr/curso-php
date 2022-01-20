@@ -37,6 +37,12 @@
                     <ul>
                         <li><a href="exercicio.php?dir=tipos&file=int">Inteiro</a></li>
                     </ul>
+                    <ul>
+                        <li><a href="exercicio.php?dir=tipos&file=float">Float</a></li>
+                    </ul>
+                    <ul>
+                        <li><a href="exercicio.php?dir=tipos&file=aritimeticas">Aritiméticas</a></li>
+                    </ul>
                 </div>
             </nav>
         </div>
