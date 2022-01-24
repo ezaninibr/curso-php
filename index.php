@@ -76,6 +76,12 @@
                     <ul>
                         <li><a href="exercicio.php?dir=variaveis&file=interpolacao">Interpolação</a></li>
                     </ul>
+                    <ul>
+                        <li><a href="exercicio.php?dir=variaveis&file=variaveis_variaveis">Variáveis Variáveis</a></li>
+                    </ul>
+                    <ul>
+                        <li><a href="exercicio.php?dir=variaveis&file=desafio_variaveis">Desafio Variáveis</a></li>
+                    </ul>
                 </div>
             </nav>
         </div>
