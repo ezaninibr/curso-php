@@ -59,6 +59,13 @@
                         <li><a href="exercicio.php?dir=tipos&file=desafio_strings">Desafio Strings</a></li>
                     </ul>
                 </div>
+                <div class="modulo azul">
+                    <h3>02 # Variáveis</h3>
+                    <ul>
+                        <li><a href="exercicio.php?dir=variaveis&file=basico">Básico</a></li>
+                    </ul>
+
+                </div>
             </nav>
         </div>
     </main>
