@@ -64,7 +64,9 @@
                     <ul>
                         <li><a href="exercicio.php?dir=variaveis&file=basico">Básico</a></li>
                     </ul>
-
+                    <ul>
+                        <li><a href="exercicio.php?dir=variaveis&file=nomes">Nomenclatura</a></li>
+                    </ul>
                 </div>
             </nav>
         </div>
