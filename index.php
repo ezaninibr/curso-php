@@ -73,6 +73,9 @@
                     <ul>
                         <li><a href="exercicio.php?dir=variaveis&file=atribuicoes">Atribuições</a></li>
                     </ul>
+                    <ul>
+                        <li><a href="exercicio.php?dir=variaveis&file=interpolacao">Interpolação</a></li>
+                    </ul>
                 </div>
             </nav>
         </div>
