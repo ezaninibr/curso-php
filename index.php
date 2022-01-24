@@ -82,6 +82,9 @@
                     <ul>
                         <li><a href="exercicio.php?dir=variaveis&file=desafio_variaveis">Desafio Variáveis</a></li>
                     </ul>
+                    <ul>
+                        <li><a href="exercicio.php?dir=variaveis&file=valor_referencia">Valor x Referência</a></li>
+                    </ul>
                 </div>
             </nav>
         </div>
