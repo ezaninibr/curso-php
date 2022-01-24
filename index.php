@@ -60,7 +60,7 @@
                     </ul>
                 </div>
                 <div class="modulo azul">
-                    <h3>02 # Variáveis</h3>
+                    <h3>03 # Variáveis</h3>
                     <ul>
                         <li><a href="exercicio.php?dir=variaveis&file=basico">Básico</a></li>
                     </ul>
@@ -69,6 +69,9 @@
                     </ul>
                     <ul>
                         <li><a href="exercicio.php?dir=variaveis&file=desafio_equacao">Desafio Equação</a></li>
+                    </ul>
+                    <ul>
+                        <li><a href="exercicio.php?dir=variaveis&file=atribuicoes">Atribuições</a></li>
                     </ul>
                 </div>
             </nav>
