@@ -1,11 +1,13 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <link href="https://fonts.googleapis.com/css?family=Oswald:200,300,400,500,600,700" rel="stylesheet">
     <link rel="stylesheet" href="recursos/css/estilo.css">
     <title>Curso PHP</title>
 </head>
+
 <body>
     <header class="cabecalho">
         <h1>Curso PHP</h1>
@@ -15,7 +17,7 @@
         <div class="conteudo">
             <nav class="modulos">
                 <div class="modulo verde">
-                    <h3>01 # Início</h3>
+                    <h3>01. Início</h3>
                     <ul>
                         <li><a href="exercicio.php?dir=basico&file=ola">Olá PHP</a></li>
                     </ul>
@@ -33,7 +35,7 @@
                     </ul>
                 </div>
                 <div class="modulo vermelho">
-                    <h3>02 # Tipos</h3>
+                    <h3>02. Tipos</h3>
                     <ul>
                         <li><a href="exercicio.php?dir=tipos&file=int">Inteiro</a></li>
                     </ul>
@@ -60,7 +62,7 @@
                     </ul>
                 </div>
                 <div class="modulo azul">
-                    <h3>03 # Variáveis</h3>
+                    <h3>03. Variáveis</h3>
                     <ul>
                         <li><a href="exercicio.php?dir=variaveis&file=basico">Básico</a></li>
                     </ul>
@@ -89,6 +91,12 @@
                         <li><a href="exercicio.php?dir=variaveis&file=constantes">Constantes</a></li>
                     </ul>
                 </div>
+                <div class="modulo roxo">
+                    <h3>04. Estruturas de Controle</h3>
+                    <ul>
+                        <li><a href="exercicio.php?dir=controle&file=if_else">IF ELSE</a></li>
+                    </ul>
+                </div>
             </nav>
         </div>
     </main>
@@ -96,4 +104,5 @@
         COD3R & ALUNOS © <?= date('Y'); ?>
     </footer>
 </body>
+
 </html>
