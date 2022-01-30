@@ -99,6 +99,9 @@
                     <ul>
                         <li><a href="exercicio.php?dir=controle&file=operadores_relacionais">Operadores Relacionais</a></li>
                     </ul>
+                    <ul>
+                        <li><a href="exercicio.php?dir=controle&file=desafio_pi">Desafio PI</a></li>
+                    </ul>
                 </div>
             </nav>
         </div>
