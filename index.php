@@ -114,6 +114,9 @@
                     <ul>
                         <li><a href="exercicio.php?dir=controle&file=switch">Switch</a></li>
                     </ul>
+                    <ul>
+                        <li><a href="exercicio.php?dir=controle&file=desafio_switch_01">Desafio Switch #01</a></li>
+                    </ul>
                 </div>
             </nav>
         </div>
