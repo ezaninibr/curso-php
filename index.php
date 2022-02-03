@@ -123,6 +123,36 @@
                     <ul>
                         <li><a href="exercicio.php?dir=array&file=basico">Básico</a></li>
                     </ul>
+                    <ul>
+                        <li><a href="exercicio.php?dir=array&file=mapa">Mapa</a></li>
+                    </ul>
+                    <ul>
+                        <li><a href="exercicio.php?dir=array&file=desafio_index">Desafio Index</a></li>
+                    </ul>
+                    <ul>
+                        <li><a href="exercicio.php?dir=array&file=desafio_meses">Desafio Meses</a></li>
+                    </ul>
+                    <ul>
+                        <li><a href="exercicio.php?dir=array&file=operacoes">Operações</a></li>
+                    </ul>
+                    <ul>
+                        <li><a href="exercicio.php?dir=array&file=desafio_sorteio">Desafio Sorteio</a></li>
+                    </ul>
+                    <ul>
+                        <li><a href="exercicio.php?dir=array&file=multi">Multi</a></li>
+                    </ul>
+                    <ul>
+                        <li><a href="exercicio.php?dir=array&file=constantes">Constantes</a></li>
+                    </ul>
+                    <ul>
+                        <li><a href="exercicio.php?dir=array&file=get">$_GET</a></li>
+                    </ul>
+                    <ul>
+                        <li><a href="exercicio.php?dir=array&file=post">$_POST</a></li>
+                    </ul>
+                    <ul>
+                        <li><a href="exercicio.php?dir=array&file=comparacao">Comparação</a></li>
+                    </ul>
                 </div>
             </nav>
         </div>
