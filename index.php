@@ -115,7 +115,13 @@
                         <li><a href="exercicio.php?dir=controle&file=switch">Switch</a></li>
                     </ul>
                     <ul>
-                        <li><a href="exercicio.php?dir=controle&file=desafio_switch_01">Desafio Switch #01</a></li>
+                        <li><a href="exercicio.php?dir=controle&file=desafio_switch_01">Desafio Switch</a></li>
+                    </ul>
+                </div>
+                <div class="modulo laranja">
+                    <h3>05. Arrays</h3>
+                    <ul>
+                        <li><a href="exercicio.php?dir=array&file=basico">Básico</a></li>
                     </ul>
                 </div>
             </nav>
